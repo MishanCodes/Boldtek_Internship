@@ -1,0 +1,6 @@
+chainlit
+google-generativeai
+pytesseract
+pillow
+python-docx
+PyPDF2
