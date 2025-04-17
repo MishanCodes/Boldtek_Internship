@@ -8,7 +8,7 @@ import PyPDF2
 import os
 
 # Set up Gemini API Key
-genai.configure(api_key="AIzaSyAbK2MMbNzD0OlRMnI95SFcjUrxKZ8wFg0")
+genai.configure(api_key=" ")
 
 # Set up Tesseract path
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
