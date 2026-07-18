@@ -10,7 +10,7 @@ from pdf2image import convert_from_path
 from dateutil import parser as date_parser
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAbK2MMbNzD0OlRMnI95SFcjUrxKZ8wFg0") 
+genai.configure(api_key="") 
 
 # Initialize EasyOCR reader
 reader = easyocr.Reader(['en'], gpu=True)
